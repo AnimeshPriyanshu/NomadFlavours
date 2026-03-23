@@ -22,7 +22,7 @@ The purpose of this project is to:
 * TheMealDB API: Provides information about meals and recipes
 
 ---
-## Features (MVP)
+## Features 
 
 * Search for a country by name
 * Display country information including flag, capital, and population
