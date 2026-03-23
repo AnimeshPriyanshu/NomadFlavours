@@ -1,15 +1,15 @@
-# AniSearch
+# WeebWorld
 
 ## Description
 
-AniSearch is a web-based application that allows users to search and explore anime using the Jikan API. The application provides key information such as titles, ratings, episodes, and descriptions in a simple and user-friendly interface.
+WeebWorld is a web-based application that enables users to search and explore anime using the Jikan API. It provides essential information such as titles, ratings, episodes, and descriptions through a clean and intuitive interface.
 
 ## Features
 
 * Search for anime by name
 * Display anime details including title, image, rating, and episodes
 * View detailed information such as synopsis and genres
-* Clean and responsive user interface
+* Responsive and user-friendly interface
 
 ## Technologies Used
 
@@ -26,4 +26,7 @@ AniSearch is a web-based application that allows users to search and explore ani
 
 * Enter the name of an anime in the search bar
 * Click the search button
-* Browse the results and click on any anime to view more details
+* Browse results and select an anime to view more details
+
+
+
